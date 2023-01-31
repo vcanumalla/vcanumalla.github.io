@@ -3,6 +3,7 @@
 ![face.jpg](/face.jpg){:width="250"}
 {: refdef}
 
+## About 
 I'm an undergraduate at the University of Washington, where I study computer science. My research interests lie in 
 **programming languages**, specifically compilers and program synthesis. At the moment, I work on building better tools for specialized hardware.
 
