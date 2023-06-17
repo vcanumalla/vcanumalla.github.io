@@ -14,10 +14,17 @@ a development methodology for end-to-end testing of specialized hardware. In the
 
 **I'll be applying to graduate school programs in the U.S. and abroad for the 2023-2024 academic year.** If you think I might be a good fit for your group, please contact me!
 
-## Publications 
-- Gus Henry Smith, Ben Kushigian, **Vishal Canumalla**, Andrew Cheung, René Just, Zachary Tatlock. Generate Compilers
-from Hardware Models! (PLARCH 2023)
-- (Pre-print) Bo-Yuan Huang\*, Steven Lyubomirsky\*, Yi Li, Mike He, Thierry Tambe, Gus Henry Smith, Akash Gaonkar, **Vishal Canumalla**, Gu-Yeon Wei, Aarti Gupta, Zachary Tatlock, Sharad Malik. (2022).
-Specialized Accelerators and Compiler Flows: Replacing Accelerator APIs with a Formal Software/Hardware Interface. [link](https://arxiv.org/abs/2203.00218)
+
+## Papers and Talks 
+_Application of Sketch Guided Synthesis to Runtime Reconfigurable FPGA Primitives._ (ICFP SRC 2023) Vishal Canumalla [(Extended Abstract)](/pubs/2023-icfp-src.pdf)
+
+[_Generate Compilers from Hardware Models!_](/pubs/2023-pldi-plarch.pdf) (PLARCH 2023). \
+Gus Henry Smith, Ben Kushigian, **Vishal Canumalla**, Andrew Cheung, René Just, Zachary Tatlock
+
+
+[_Specialized Accelerators and Compiler Flows: Replacing Accelerator APIs with a Formal Software/Hardware Interface._](/pubs/2022-arxiv-3la.pdf) (Arxiv 2022). \
+Bo-Yuan Huang, Steven Lyubomirsky, Yi Li, Mike He, Thierry Tambe, Gus Henry Smith, Akash Gaonkar, **Vishal Canumalla**, Gu-Yeon Wei, Aarti Gupta, Zachary Tatlock, Sharad Malik.
+
+
 
 
