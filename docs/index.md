@@ -1,9 +1,9 @@
 
 {:refdef: style="text-align: center;"}
-![face.jpg](/face.jpg){:width="250"}
+![face.jpg](/pfp/2023.jpg)
 {: refdef}
 
-## About 
+## Intro 
 I'm an undergraduate at the University of Washington, where I study computer science. My research interests lie in 
 **programming languages**. At the moment, my work is in using programming languages techniques in hardware design compilation.
 
@@ -14,9 +14,9 @@ a development methodology for end-to-end testing of specialized hardware. In the
 
 **I'll be applying to graduate school programs in the U.S. and abroad for the 2023-2024 academic year.** If you think I might be a good fit for your group, please contact me!
 
+I'm also interested in industry internships for this upcoming summer of 2024, and maybe fulltime roles if the right one comes along! If you think I am a good fit to work with you in industry, let's get in touch!
 
 ## Papers and Talks 
-_Application of Sketch Guided Synthesis to Runtime Reconfigurable FPGA Primitives._ (ICFP SRC 2023) Vishal Canumalla [(Extended Abstract)](/pubs/2023-icfp-src.pdf)
 
 [_Generate Compilers from Hardware Models!_](/pubs/2023-pldi-plarch.pdf) (PLARCH 2023). \
 Gus Henry Smith, Ben Kushigian, **Vishal Canumalla**, Andrew Cheung, René Just, Zachary Tatlock
@@ -26,5 +26,16 @@ Gus Henry Smith, Ben Kushigian, **Vishal Canumalla**, Andrew Cheung, René Just,
 Bo-Yuan Huang, Steven Lyubomirsky, Yi Li, Mike He, Thierry Tambe, Gus Henry Smith, Akash Gaonkar, **Vishal Canumalla**, Gu-Yeon Wei, Aarti Gupta, Zachary Tatlock, Sharad Malik.
 
 
+## About
 
+I was born in Dallas Texas, but home to me will always be Washington. I've lived here since I was 6!
+
+I used to want to study chemistry in high school, before settling on doing chemistry and computer science. Now I only study computer science. I wonder if it will come full circle one day...
+
+
+My hobbies are mostly non-technical. I especially enjoy fantasy in any medium: games, books, movies, anything really. I also am an avid wildlife photographer. I find animals give far less criticism on their portraits than my human friends do.
+
+I enjoy snowboarding (decent), tennis (mediocre), basketball (horrendous), and running (improving)!
+
+I have an older brother Ani, who is a Ph.D. student at UCSD CSE. He's much smarter than me, but I keep up by learning from his example.
 

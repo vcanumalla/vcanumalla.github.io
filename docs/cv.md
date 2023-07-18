@@ -1,9 +1,10 @@
 ---
-title : CV
+title : Resume
 layout: default
 ---
 
- My <a href="/resume.pdf">resume</a>
+ My <a href="/Resume/jul2023.pdf">resume</a>
 
- And my <a href="/cv.pdf">CV</a>
+
+
 
