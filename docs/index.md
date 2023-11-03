@@ -1,6 +1,6 @@
 
 {:refdef: style="text-align: center;"}
-![face.jpg](/pfp/2023.jpg)
+![face.jpg](/pfp/2023au.jpg)
 {: refdef}
 
 ## Intro 
