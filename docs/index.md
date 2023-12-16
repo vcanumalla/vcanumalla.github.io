@@ -29,12 +29,13 @@ I'm also interested in industry internships for this upcoming summer of 2024, an
 Gus Henry Smith, Benjamin Kushigian, **Vishal Canumalla**, Andrew Cheung, Steven Lyubomirsky, Sorawee Porncharoenwase, René Just, Zachary Tatlock
 
 [_Application-Level Validation of Accelerator Designs Using a Formal Software/Hardware Interface._](/pubs/2023-todaes-3la.pdf)  
-(Under Minor Revision to TODAES 2023) \
+(TODAES 2023) \
 Bo-Yuan Huang, Steven Lyubomirsky, Yi Li, Mike He, Thierry Tambe, Gus Henry Smith, Akash Gaonkar, **Vishal Canumalla**, Andrew Cheung, Gu-Yeon Wei, Aarti Gupta, Zachary Tatlock, Sharad Malik.
 
 [_Generate Compilers from Hardware Models!_](/pubs/2023-pldi-plarch.pdf)  
 (PLARCH 2023) \
 Gus Henry Smith, Ben Kushigian, **Vishal Canumalla**, Andrew Cheung, René Just, Zachary Tatlock
+
 
 
 ## Talks and Posters
@@ -62,6 +63,7 @@ My hobbies are mostly non-technical. I especially enjoy fantasy in any medium: g
 I enjoy snowboarding (decent), tennis (mediocre), basketball (horrendous), and running (improving)!
 
 I have an older brother Ani, who is a Ph.D. student at UCSD CSE. He's much smarter than me, but I keep up by learning from his example.
+
 
 
 

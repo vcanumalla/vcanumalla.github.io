@@ -4,7 +4,8 @@ layout: default
 ---
 
 
- My [resume](/Resume/CV/nov2023.pdf)
+ My [resume](/Resume/CV/dec2023.pdf)
+
 
 
 
