@@ -4,8 +4,7 @@
 {: refdef}
 
 ## Intro 
-I'm an undergraduate at the University of Washington, where I study computer science. My research interests lie in 
-**programming languages**. At the moment, my work is in using programming languages techniques in hardware design compilation.
+I'm an undergraduate at the University of Washington, where I study computer science. My research interests are wide -- I'm very interested in programming languages, especially with applications in data center systems, specialized hardware, and heterogeneous computing systems. At the moment, my work is in using programming languages techniques in hardware design compilation.
 
 I am very lucky to be advised by [Zachary Tatlock](https://ztatlock.net) and [Gus Smith](https://justg.us) here at UW.
 
@@ -15,6 +14,7 @@ a development methodology for end-to-end testing of specialized hardware. In the
 **I'll be applying to graduate school programs in the U.S. and abroad for the 2023-2024 academic year.** If you think I might be a good fit for your group, please contact me!
 
 I'm also interested in industry internships for this upcoming summer of 2024, and maybe fulltime roles if the right one comes along! If you think I am a good fit to work with you in industry, let's get in touch!
+
 
 
 
@@ -63,6 +63,7 @@ My hobbies are mostly non-technical. I especially enjoy fantasy in any medium: g
 I enjoy snowboarding (decent), tennis (mediocre), basketball (horrendous), and running (improving)!
 
 I have an older brother Ani, who is a Ph.D. student at UCSD CSE. He's much smarter than me, but I keep up by learning from his example.
+
 
 
 
