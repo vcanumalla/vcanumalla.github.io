@@ -4,15 +4,43 @@
 {: refdef}
 
 ## Intro 
-I'm an undergraduate at the University of Washington, where I study computer science. My research interests are wide -- I'm very interested in programming languages, especially with applications in data center systems, specialized hardware, and heterogeneous computing. At the moment, my work is in using programming languages techniques in hardware design compilation.
+I'm a final year undergraduate at the University of Washington, where I study computer science. I work in the PLSE group at UW, where 
 
-I am very lucky to be advised by [Zachary Tatlock](https://ztatlock.net) and [Gus Smith](https://justg.us) here at UW.
+Next year, I'll start my PhD in Electrical Engineering at Stanford University! I'm excited to move to sunny California, but secretly I will miss the cold breeze of Seattle in the winter.
 
-Currently, I work on Lakeroad, a tool for FPGA synthesis, via sketch-guided synthesis. I also work In the past, I've worked on the 3LA project,
+## News
+
+
+
+Mar. 2024 -- Accepted PhD At Stanford!
+
+Mar. 2024 -- Our workshop paper on using egraphs for EDA tasks was accepted to Latte!
+
+Dec. 2023 -- [3LA](/pubs/2023-todaes-3la.pdf) was accepted to 
+TODAES 2023!
+
+Dec. 2023 -- [Lakeroad](/pubs/2024-asplos-lakeroad.pdf) was accepted
+to ASPLOS 2024!
+
+## Research
+
+Generally, I'm interested in compilers and programming languages, especially with applications 
+in hardware and computer architecture. Currently, I work on Lakeroad, a tool for FPGA synthesis, via sketch-guided synthesis. In the past, I've worked on the 3LA project,
 a development methodology for end-to-end testing of specialized hardware. I've additionally contributed to Glenside, a language for tensor program rewriting, and a formal specification mutation generator named Gambit.
+
+I've been very lucky to work with a great group of colleagues and mentors in industry and academia.
+At UW, I'm thankful to have be been advised by [Zachary Tatlock](https://ztatlock.net) and [Gus Smith](https://justg.us)
+on all the projects I've worked on.
+
+At Certora, I was advised by [Chandrakana Nandi](https://cnandi.com), who generously took on a very inexperienced
+sophomore and molded him into a (potentially) great researcher!
 
 
 ## Publications  
+[_There and Back Again: A Netlist's Tale with Much Egraphin'_](/pubs/2024-asplos-latte.pdf) \
+(LATTE 2024) \
+Gus Henry Smith, Zachary D. Sisco, Thanawat Techaumnuawit, Jingtao Xia, Vishal Canumalla, Andrew Cheung, Zachary Tatlock,
+Chandrakana Nandi, Jonathan Balkind
 
 [_FPGA Technology Mapping Using Sketch-Guided Program Synthesis_](/pubs/2024-asplos-lakeroad.pdf)  
 (ASPLOS 2024) \
@@ -25,6 +53,7 @@ Bo-Yuan Huang, Steven Lyubomirsky, Yi Li, Mike He, Thierry Tambe, Gus Henry Smit
 [_Generate Compilers from Hardware Models!_](/pubs/2023-pldi-plarch.pdf)  
 (PLARCH 2023) \
 Gus Henry Smith, Ben Kushigian, **Vishal Canumalla**, Andrew Cheung, René Just, Zachary Tatlock
+
 
 
 
@@ -53,6 +82,8 @@ My hobbies are mostly non-technical. I especially enjoy fantasy in any medium: g
 I enjoy snowboarding (decent), tennis (mediocre), basketball (horrendous), and running (improving)!
 
 I have an older brother Ani, who is a Ph.D. student at UCSD CSE. He's much smarter than me, but I keep up by learning from his example.
+
+
 
 
 
