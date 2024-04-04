@@ -4,7 +4,7 @@
 {: refdef}
 
 ## Intro 
-I'm a final year undergraduate at the University of Washington, where I study computer science. I work in the PLSE group at UW, where 
+I'm a final year undergraduate at the University of Washington, where I study computer science. I work in the PLSE group at UW.
 
 Next year, I'll start my PhD in Electrical Engineering at Stanford University! I'm excited to move to sunny California, but secretly I will miss the cold breeze of Seattle in the winter.
 
