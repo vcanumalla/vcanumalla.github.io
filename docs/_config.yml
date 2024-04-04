@@ -5,6 +5,9 @@ permalink: /
 layout: page
 title: "Fun!"
 permalink: /fun
+
+# hide ugrad-research.md from front page
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
